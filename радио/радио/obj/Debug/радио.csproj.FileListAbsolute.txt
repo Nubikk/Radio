@@ -1,0 +1,10 @@
+C:\Users\mgruz\source\repos\радио\радио\bin\Debug\радио.exe.config
+C:\Users\mgruz\source\repos\радио\радио\bin\Debug\радио.exe
+C:\Users\mgruz\source\repos\радио\радио\bin\Debug\радио.pdb
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.csprojAssemblyReference.cache
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.Form1.resources
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.Properties.Resources.resources
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.csproj.GenerateResource.cache
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.csproj.CoreCompileInputs.cache
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.exe
+C:\Users\mgruz\source\repos\радио\радио\obj\Debug\радио.pdb
